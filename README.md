@@ -233,7 +233,3 @@ python src/agent.py
 * Add PDF annotation (mapping evidence back to pages)
 * Build Streamlit/FastAPI dashboard
 * Add automated scoring metrics
-
-
-Just tell me!
-```
