@@ -1,15 +1,5 @@
 # Policy-Compliance-Checker-RAG-System
 
-Here is the **pure Markdown code** for your GitHub README — copy/paste directly into `README.md`:
-
----
-
-```markdown
-# 🛡️ Policy Compliance Checker RAG System  
-### **LangChain + Gemini + CUAD Dataset**
-
----
-
 ## 📌 Overview
 
 The **Policy Compliance Checker RAG System** is a Retrieval-Augmented Generation (RAG) pipeline built using **LangChain**, **Gemini**, and the **CUAD dataset**. Its purpose is to automatically evaluate whether corporate documents — such as company policies, HR manuals, security protocols, or compliance guidelines — follow a predefined set of rules.
